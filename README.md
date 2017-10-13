@@ -1,0 +1,2 @@
+# PHP_Function_Encapsulation
+记录一些常用的PHP自定义的封装函数

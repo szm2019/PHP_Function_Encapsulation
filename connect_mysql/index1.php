@@ -8,3 +8,4 @@ $query_result=$link->query("select * from program");//查询操作结果
 //不知道这个类有什么方法 应该怎么办
 $data_list=$query_result->fetch_all();
 var_dump($data_list);
+
